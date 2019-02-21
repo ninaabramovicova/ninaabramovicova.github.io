@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="sk" dir="ltr">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<title>Galéria | N.A.</title>
+	<link rel="stylesheet" type="text/css" href="../style.css">
+	<link rel="icon" href="../obr/NA.svg" type="image/gif" sizes="16x16">	
+	<link rel="shortcut icon" href="../obr/NA.svg" type="image/gif" sizes="16x16">	
+</head>
+
+<!--<body><div id="header">-->
+<body><div id="header">
+<body>
+	<a id='headerLogo' href="../index.htm"><img src="../obr/NA_okraj10px.svg" alt="NA" height='85px'></a>
+	<!--<a id="headerLink" href="http://suckless.org/">aaa.org</a> -->
+	<!--<span class="hidden"> - </span>-->
+	<!--<span id="headerSubtitle">stranky osoby</span> -->
+</div>
+<!--</div>-->
+<hr class="hidden">
+<div id="menu">
+	<a href="../index.htm">K104</a>
+	<a href="./galeria1.htm"><b>galéria</b></a>
+	<a href="../blog/blog.htm">blog</a>
+	<a href="../pozdrav.htm">pozdrav</a>
+	<span class="right">
+		<a href="../index.htm">sk</a>
+		<a href="../index.htm">kop</a>
+	</span>
+</div>
+<div id="content">
+<div id="nav">
+	<ul>
+	<li><a href="./galeria1.htm"><b>Podľa roku/</b></a>
+		<ul>
+		<li><a href="#rok2018">2018</a></li>
+		<li><a href="#rok2017">2017</a></li>
+		<li><a href="#rok2016">2016</a></li>
+		<li><a href="#rok2015">2015</a></li>
+		<li><a href="#rok2014">2014</a></li>
+		<li><a href="#rok2013">2013</a></li>
+		</ul>
+	</li>
+	<li><a href="./galeria2.htm">Tematicky/</a></li>
+	</ul>
+</div>
+<hr class="hidden">
+<div id="main">
+
+<p> Je taká známa vec, že peknou stránku robia pekné fotky. Takže teraz sa treba už jedine zamerať na dobré fotky snáď viac než na nejaké programovacie zázraky.</p>
+<p>Potom ešte dávam do pozornosti tú responzívnosť tejto galérie. Jak je napísané aj v <a href="../novinky/novinky2.htm">novinkách</a>, to znamená že na smartfone alebo malej obrazovke (či malom okne prehliadača) sa zobrazí jeden stĺpec a na veľkej obrazovke 2 stĺpce. Samozrejme že potom vzniká otázka, či postupovať po riadkoch, alebo stĺpcoch, v prípade nejakého zoraďovania obrázkov. To treba ešte dohodnúť. Jednoduchšie je to po stĺpcoch, a podľa mňa to ani neni proti psychológii prehliadania (stíhať na veľkej obrazovke kukať 2 stĺpce naraz).</p>
+
+<div class="row">
+  
+  <div class='policko_nadpis' id="rok2018">
+	  <h2>2018</h2>
+  </div>
+  <div class="stlpec">
+	  <div class='policko'>
+		  <a href="../obr/nina2_2.jpg"><img src="../obr/nina2_2.jpg" alt="blabla" style="width:100%"></a>
+		  <p>&#8593; Toto je akože ukážka že môže byť popis k fotke. Dá sa aj kliknúť na ten obrázok.</p>
+		  <p>akjs d lkjdsl dlkslio  foiuf we
+		  7sp foi f 0foijVj -
+		  7sp foi f 0foijVj -
+		  d k doi d-dlkj d k doi d-dlkj sd i ds lkjs\n
+		  </p>
+		  <p>kjalskj</p>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+		  <p>&#8593; akjs d lkjdsl dlkslio  foiuf we
+		  d k doi d-dlkj d k doi d-dlkj sd i ds lkjs\n
+		  </p>
+		  <p>kjalskj</p>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina2.jpg"><img src="../obr/nina2.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina2_2.jpg"><img src="../obr/nina2_2.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+  </div>
+  <div class="stlpec">
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina2.jpg"><img src="../obr/nina2.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina2.jpg"><img src="../obr/nina2.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina2.jpg"><img src="../obr/nina2.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+  </div>
+
+  <div class='policko_nadpis' id="rok2017">
+	  <h2>2017</h2>
+  </div>
+  <div class="stlpec">
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina2.jpg"><img src="../obr/nina2.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+  </div>
+  <div class="stlpec">
+	  <div class='policko'>
+		  <a href="../obr/nina2_2.jpg"><img src="../obr/nina2_2.jpg" alt="blabla" style="width:100%"></a>
+		  <p>&#8593; Toto je akože ukážka že môže byť popis k fotke. Dá sa aj kliknúť na ten obrázok.</p>
+		  <p>akjs d lkjdsl dlkslio  foiuf we
+		  7sp foi f 0foijVj -
+		  7sp foi f 0foijVj -
+		  d k doi d-dlkj d k doi d-dlkj sd i ds lkjs\n
+		  </p>
+		  <p>kjalskj</p>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+		  <p>&#8593; akjs d lkjdsl dlkslio  foiuf we
+		  d k doi d-dlkj d k doi d-dlkj sd i ds lkjs\n
+		  </p>
+		  <p>kjalskj</p>
+	  </div>
+  </div>
+
+  <div class='policko_nadpis' id="rok2016">
+	  <h2>2016</h2>
+  </div>
+  <div class="stlpec">
+	  <div class='policko'>
+		  <a href="../obr/nina2_2.jpg"><img src="../obr/nina2_2.jpg" alt="blabla" style="width:100%"></a>
+		  <p>&#8593; Toto je akože ukážka že môže byť popis k fotke. Dá sa aj kliknúť na ten obrázok.</p>
+		  <p>akjs d lkjdsl dlkslio  foiuf we
+		  7sp foi f 0foijVj -
+		  7sp foi f 0foijVj -
+		  d k doi d-dlkj d k doi d-dlkj sd i ds lkjs\n
+		  </p>
+		  <p>kjalskj</p>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+		  <p>&#8593; akjs d lkjdsl dlkslio  foiuf we
+		  d k doi d-dlkj d k doi d-dlkj sd i ds lkjs\n
+		  </p>
+		  <p>kjalskj</p>
+	  </div>
+  </div>
+  <div class="stlpec">
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina2.jpg"><img src="../obr/nina2.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+  </div>
+
+  <div class='policko_nadpis' id="rok2015">
+	  <h2>2015</h2>
+  </div>
+  <div class="stlpec">
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina2.jpg"><img src="../obr/nina2.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+  </div>
+  <div class="stlpec">
+	  <div class='policko'>
+		  <a href="../obr/nina2_2.jpg"><img src="../obr/nina2_2.jpg" alt="blabla" style="width:100%"></a>
+		  <p>&#8593; Toto je akože ukážka že môže byť popis k fotke. Dá sa aj kliknúť na ten obrázok.</p>
+		  <p>akjs d lkjdsl dlkslio  foiuf we
+		  7sp foi f 0foijVj -
+		  7sp foi f 0foijVj -
+		  d k doi d-dlkj d k doi d-dlkj sd i ds lkjs\n
+		  </p>
+		  <p>kjalskj</p>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+		  <p>&#8593; akjs d lkjdsl dlkslio  foiuf we
+		  d k doi d-dlkj d k doi d-dlkj sd i ds lkjs\n
+		  </p>
+		  <p>kjalskj</p>
+	  </div>
+  </div>
+
+  <div class='policko_nadpis' id="rok2014">
+	  <h2>2014</h2>
+  </div>
+  <div class="stlpec">
+	  <div class='policko'>
+		  <a href="../obr/nina2_2.jpg"><img src="../obr/nina2_2.jpg" alt="blabla" style="width:100%"></a>
+		  <p>&#8593; Toto je akože ukážka že môže byť popis k fotke. Dá sa aj kliknúť na ten obrázok.</p>
+		  <p>akjs d lkjdsl dlkslio  foiuf we
+		  7sp foi f 0foijVj -
+		  7sp foi f 0foijVj -
+		  d k doi d-dlkj d k doi d-dlkj sd i ds lkjs\n
+		  </p>
+		  <p>kjalskj</p>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+		  <p>&#8593; akjs d lkjdsl dlkslio  foiuf we
+		  d k doi d-dlkj d k doi d-dlkj sd i ds lkjs\n
+		  </p>
+		  <p>kjalskj</p>
+	  </div>
+  </div>
+  <div class="stlpec">
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina2.jpg"><img src="../obr/nina2.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+  </div>
+
+  <div class='policko_nadpis' id="rok2013">
+	  <h2>2013</h2>
+  </div>
+  <div class="stlpec">
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina2.jpg"><img src="../obr/nina2.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+	  </div>
+  </div>
+  <div class="stlpec">
+	  <div class='policko'>
+		  <a href="../obr/nina2_2.jpg"><img src="../obr/nina2_2.jpg" alt="blabla" style="width:100%"></a>
+		  <p>&#8593; Toto je akože ukážka že môže byť popis k fotke. Dá sa aj kliknúť na ten obrázok.</p>
+		  <p>akjs d lkjdsl dlkslio  foiuf we
+		  7sp foi f 0foijVj -
+		  7sp foi f 0foijVj -
+		  d k doi d-dlkj d k doi d-dlkj sd i ds lkjs\n
+		  </p>
+		  <p>kjalskj</p>
+	  </div>
+	  <div class='policko'>
+		  <a href="../obr/nina1.jpg"><img src="../obr/nina1.jpg" alt="blabla" style="width:100%"></a>
+		  <p>&#8593; akjs d lkjdsl dlkslio  foiuf we
+		  d k doi d-dlkj d k doi d-dlkj sd i ds lkjs\n
+		  </p>
+		  <p>kjalskj</p>
+	  </div>
+  </div>
+
+
+</div>
+
+
+</div>
+
+</div>
+
+
+</body></html>

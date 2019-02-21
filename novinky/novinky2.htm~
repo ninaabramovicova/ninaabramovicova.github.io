@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="sk" dir="ltr">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<title>N.A.</title>
+	<link rel="stylesheet" type="text/css" href="../style.css">
+	<link rel="icon" href="../obr/NA.svg" type="image/gif" sizes="16x16">	
+	<link rel="shortcut icon" href="../obr/NA.svg" type="image/gif" sizes="16x16">	
+</head>
+
+<!--<body><div id="header">-->
+<body><div id="header">
+<body>
+	<a id='headerLogo' href="../index.htm"><img src="../obr/NA_okraj10px.svg" alt="NA" height='85px'></a>
+	<!--<span class="hidden"> - </span>-->
+	<!--<span id="headerSubtitle">stranky osoby</span> -->
+</div>
+<!--</div>-->
+<hr class="hidden">
+<div id="menu">
+	<a href="../index.htm"><b>K104</b></a>
+	<a href="../galeria/galeria1.htm">galéria</a>
+	<a href="../blog/blog.htm">blog</a>
+	<a href="../pozdrav.htm">pozdrav</a>
+	<span class="right">
+		<a href="../index.htm">sk</a>
+		<a href="../index.htm">kop</a>
+	</span>
+</div>
+<div id="content">
+<div id="nav">
+	<ul>
+	<li><a href="../index.htm">Titulka/</a></li>
+	<li><a href="./novinky1.htm">Novinky zo života/</a></li>
+	<li><a href="./novinky2.htm"><b>Novinky o stránkach/</b></a></li>
+	</ul>
+</div>
+<hr class="hidden">
+<div id="main">
+
+
+<h1 id=novinky2>Novinky o stránkach</h1>
+
+<p>Poznámka: keď mi bude dodané original logo/monogram, tak tam dam ten. Jak aj nove fotky a vlastne aj celú štruktúru :D.</p>
+
+
+<h2>2019-02-21</h2>
+<h3><a href="../galeria/galeria1.htm">Galéria</a> bez rámikov.</h3>
+<p>Radšej. (Predtým bol čierny hrubý 1 pixel. Teraz som tam namiesto toho dal ku popiskám šípky (takéto: &#8593;)).</p>
+
+<h2>2019-02-18</h2>
+<h3>"Responzívna" <a href="../galeria/galeria1.htm">galéria</a> obrázkov.</h3>
+<p>Čili počet stĺpcov podľa šírky obrazovky, aby bol rozdiel na monitore a na smartfone.</p>
+
+<h2>2019-02-18</h2>
+<h3>Sticky menu + navbar.</h3>
+<p>(To jest keď sa crolluje dole, tak horné aj ľavé menu ostane navrchu.</p>
+<p>To je taká malá frajerinka, ktorú môžem ľahko vypnúť, ak napríklad zaberá to menu zbytočný priestor na
+strane alebo tak.</p>
+<p>Vyskúšateľné zase napr. na <a href="../galeria/galeria1.htm">galérii</a>.</p>
+
+<h2>2019-02-15</h2>
+<h3>Favicon.</h3>
+
+</div>
+
+</div>
+
+
+</body></html>
